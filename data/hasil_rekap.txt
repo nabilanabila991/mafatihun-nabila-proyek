@@ -1,0 +1,7 @@
+HASIL ANALISIS NILAI SISWA
+Jumlah siswa: 9
+Rata-rata: 70.00
+Nilai minimum: 50.0
+Nilai maksimum: 90.0
+Jumlah lulus: 7
+Jumlah tidak lulus: 2
